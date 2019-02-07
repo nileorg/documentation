@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+1. [**Introduction**](index.md)
+2. [Architecture](architecture.md)
+3. [How entities communicate](communication.md)
+4. [Entities decentralized information](decentralization.md)
+5. [Components](components.md)
 
-You can use the [editor on GitHub](https://github.com/nileorg/documentation/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# Introduction
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## What is Nile?
+Nile is a decentralized and commission-free shopping platform that promotes local economies. All the money you pay for goods or services goes directly to the seller. Nile is made to be, as far as possible, similar to the online shops you are already using. So, when you search for something, you will not even notice that you are using a decentralized system.
 
-### Markdown
+Not only on Nile will you find general goods, but also general services like car sharing. By using Nile you can create your own business employing a set of predefined components. For example, let’s imagine that John has a huge washing machine at home. With Nile, he can start a laundry business just by creating his online store. He may decide to use a timer component, so that his clients can keep track of their dirty laundry status. He may also add a map component in order for customers to know where John is when he is delivering the laundry.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We think that there are too many blockchain projects around, and people are often scared about this fragile environment. Nile’s architecture is built upon blockchain free technologies such as IPFS. We created an infrastructure that works at its best for a metropolitan area. Thus, searching for local services and products is promoted inherently by the technology.
 
-```markdown
-Syntax highlighted code block
+Every aspect of Nile will be customizable, the seller decides his/her payment and delivery methods.
 
-# Header 1
-## Header 2
-### Header 3
+Nile is a federation of ecommerces: we propose a standard way to publish store information on distributed filesystems. If you already have a store on an external platform you are able to join the Nile network.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nileorg/documentation/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Lets get started!
+First you need to understand how the Nile architecture works, [learn more here!](architecture.md)
