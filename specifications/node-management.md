@@ -125,3 +125,5 @@ note right of Local Instance: The local instance update the node's information
 Local Instance->Node: {action: "updated", parameters:{}}
 note right of Local Instance: The local instance pins the new node's IPFS Hash
 -->
+
+Please {% github_edit_link "help improve this page" %}.

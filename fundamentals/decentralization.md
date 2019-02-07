@@ -65,3 +65,5 @@ The client doesn't save anything in a decentralized way.
 
 # Next
 In the next section we will cover how components work. [Go ahead](components.md)!
+
+Please {% github_edit_link "help improve this page" %}.

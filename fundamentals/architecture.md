@@ -34,3 +34,5 @@ In the following image you can see an instance publishing a message to a generic
 
 Next
 If you want to learn more about how entities communicate, [go to the next section!](communication.md)
+
+Please {% github_edit_link "help improve this page" %}.

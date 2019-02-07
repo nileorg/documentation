@@ -46,3 +46,5 @@ Nile offers two communcation protocols:
   * **client.to.instance.for.node**
     * **response**: the response
     * **sender**: the node id
+
+Please {% github_edit_link "help improve this page" %}.

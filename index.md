@@ -22,3 +22,5 @@ Nile is a federation of ecommerces: we propose a standard way to publish store i
 
 ## Lets get started!
 First you need to understand how the Nile architecture works, [learn more here!](architecture.md)
+
+Please {% github_edit_link "help improve this page" %}.

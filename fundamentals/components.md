@@ -92,3 +92,5 @@ The client will then update the "output_hello" with the new state "Message recei
 
 # Next
 Now you are ready to setup your environment, check [how to get started (soon)](https://nile.shopping/)!
+
+Please {% github_edit_link "help improve this page" %}.

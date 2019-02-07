@@ -5,7 +5,7 @@
   4. [Entities decentralized information](decentralization.md)
   5. [Components](components.md)
 * [SPECIFICATIONS](../specifications/client-management.md)
-* [DEVELOPMENT](index.md)
+* [DEVELOPMENT](../development/get-started.md)
 
 # Communication
 
@@ -127,3 +127,5 @@ External ecommerces can join Nile. If an ecommerce has existing APIs then the co
 
 # Next
 Learn how entities save information in the decentralized storage [here](decentralization.md).
+
+Please {% github_edit_link "help improve this page" %}.
