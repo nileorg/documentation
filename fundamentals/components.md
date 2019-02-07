@@ -1,8 +1,11 @@
-1. [Introduction](index.md)
-2. [Architecture](architecture.md)
-3. [How entities communicate](communication.md)
-4. [Entities decentralized information](decentralization.md)
-5. [**Components**](components.md)
+* [**FOUNDAMENTALS**](../index.md)
+  1. [Introduction](../index.md)
+  2. [Architecture](architecture.md)
+  3. [How entities communicate](communication.md)
+  4. [Entities decentralized information](decentralization.md)
+  5. [**Components**](components.md)
+* [SPECIFICATIONS](../specifications/client-management.md)
+* [DEVELOPMENT](../development/get-started.md)
 
 # Components
 
@@ -62,7 +65,7 @@ A node publishes the following components
 
 When the client parse this components into UI it will be presented something like this:
 
-![Components UI](images/components/1-components.jpg)
+![Components UI](../images/components/1-components.jpg)
 
 When the "input_hello" is filled with text its state updates.
 

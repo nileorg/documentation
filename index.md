@@ -1,8 +1,11 @@
-1. [**Introduction**](index.md)
-2. [Architecture](architecture.md)
-3. [How entities communicate](communication.md)
-4. [Entities decentralized information](decentralization.md)
-5. [Components](components.md)
+* [**FOUNDAMENTALS**](index.md)
+  1. [**Introduction**](index.md)
+  2. [Architecture](fundamentals/architecture.md)
+  3. [How entities communicate](fundamentals/communication.md)
+  4. [Entities decentralized information](fundamentals/decentralization.md)
+  5. [Components](fundamentals/components.md)
+* [SPECIFICATIONS](specifications/client-management.md)
+* [DEVELOPMENT](development/get-started.md)
 
 # Introduction
 
