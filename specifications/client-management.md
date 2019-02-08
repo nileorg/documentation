@@ -94,4 +94,8 @@ note right of Local Instance: The local instance update the client's information
 Local Instance->client: {action: "updated", parameters:{}}
 -->
 
+# Next
+
+The next chapter is about the [communication protocol](../specifications/communication-protocol.md).
+
 Please {% github_edit_link "help improve this page" %}.

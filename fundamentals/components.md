@@ -91,6 +91,8 @@ The node receives the message above and process it because it bound a function t
 The client will then update the "output_hello" with the new state "Message received"
 
 # Next
-Now you are ready to setup your environment, check [how to get started (soon)](https://nile.shopping/)!
+Now you are ready to setup your environment, check [how to get started](../development/get-started.md)!
+
+Or read the specification [here](../specifications/client-management.md).
 
 Please {% github_edit_link "help improve this page" %}.

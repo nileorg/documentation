@@ -47,4 +47,9 @@ Nile offers two communcation protocols:
     * **response**: the response
     * **sender**: the node id
 
+# Next
+
+On the next page you can read more about the [node management](../specifications/node-management.md).
+
+
 Please {% github_edit_link "help improve this page" %}.

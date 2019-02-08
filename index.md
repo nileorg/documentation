@@ -1,11 +1,11 @@
-* [**FOUNDAMENTALS**](index.md)
+1. [**FOUNDAMENTALS**](index.md)
   1. [**Introduction**](index.md)
   2. [Architecture](fundamentals/architecture.md)
   3. [How entities communicate](fundamentals/communication.md)
   4. [Entities decentralized information](fundamentals/decentralization.md)
   5. [Components](fundamentals/components.md)
-* [SPECIFICATIONS](specifications/client-management.md)
-* [DEVELOPMENT](development/get-started.md)
+2. [SPECIFICATIONS](specifications/client-management.md)
+3. [DEVELOPMENT](development/get-started.md)
 
 # Introduction
 
@@ -21,6 +21,6 @@ Every aspect of Nile will be customizable, the seller decides his/her payment an
 Nile is a federation of ecommerces: we propose a standard way to publish store information on distributed filesystems. If you already have a store on an external platform you are able to join the Nile network.
 
 ## Lets get started!
-First you need to understand how the Nile architecture works, [learn more here!](architecture.md)
+First you need to understand how the Nile architecture works, [learn more here!](fundamentals/architecture.md)
 
 Please {% github_edit_link "help improve this page" %}.

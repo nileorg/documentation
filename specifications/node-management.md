@@ -126,4 +126,8 @@ Local Instance->Node: {action: "updated", parameters:{}}
 note right of Local Instance: The local instance pins the new node's IPFS Hash
 -->
 
+# Next
+
+Now you are ready to setup your environment, check [how to get started](../development/get-started.md)!
+
 Please {% github_edit_link "help improve this page" %}.
